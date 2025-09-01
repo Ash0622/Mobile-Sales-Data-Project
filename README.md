@@ -21,5 +21,5 @@ Monthly/Quarterly trend analysis
 Top-selling products and brands insights
 Interactive slicers & filters for deep analysis
 
-Screenshot / Demos
-Show what the dashboard looks like-https://github.com/Ash0622/Mobile-Sales-Data-Project/blob/main/Snapchat%20of%20the%20Dashboard.pn
+
+
