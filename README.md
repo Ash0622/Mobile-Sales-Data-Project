@@ -1,4 +1,4 @@
-# Mobile-Sales-Data-Project
+# Mobile Sales Data Analysis 
 Mobile Sales Dashboard – Power BI
 
 Short Description:
